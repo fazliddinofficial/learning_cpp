@@ -30,6 +30,7 @@ int main()
     me.greet();
 
     std::cout << me.toString() << '\n';
+    std::cout << "Hello Bro" << '\n';
 
     return 0;
 }
